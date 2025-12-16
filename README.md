@@ -19,10 +19,7 @@
 
 ## 🛠️ 技术栈与工具
 
-> 这些徽章是展示你常用技术的绝佳方式！
-> **请自行替换或添加你实际掌握的技术。**
-> 
-> *你可以使用 Shields.io 或 Ileriayo/markdown-badges 生成更多徽章。*
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -45,12 +42,12 @@
 
 ## 🎯 关于我
 
-* 🔭 **目前正在探索**：深入研究 **[你正在研究的技术或项目]**，并致力于提升代码质量。
-* 🌱 **最近在学习**：**[一个你正在学习的新框架或语言]** 和 **系统设计**。
-* 👯 **期待合作**：对 **[一个你感兴趣的开源领域，例如：Web Components/AI 应用]** 相关的项目有兴趣，欢迎交流。
+* 🔭 **目前正在探索**：深入研究 **[导航项目**，并致力于提升代码质量。
+* 🌱 **最近在学习**：**[ai方向a** 和 **系统设计**。
+* 👯 **期待合作**：对 **[ai自媒体网赚a** 相关的项目有兴趣，欢迎交流。
 * 📫 **联系我**：
-    * **Email**: `你的邮箱地址@example.com`
-    * **[其他社交媒体]**: `你的社交媒体链接`
+    * **Email**: `*@example.com`
+    * **项目留言即可i项: `。`
 
 <br>
 <div align="center">
